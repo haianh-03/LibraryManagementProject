@@ -5,7 +5,7 @@
 
 ---
 
-#Description#
+# Description
 
 The Library Management System is a web-based application designed to streamline the management of library operations. It provides comprehensive features for managing books, customers, and book rental services, while also supporting librarian administration with functions such as attendance tracking, leave management, and payroll processing.
 
@@ -13,7 +13,7 @@ This project aims to replace traditional manual management methods, which are of
 
 ---
 
-#Technologies#
+# Technologies
 
 - **Frontend**: React
 - **Backend**: ASP.NET Core Web API, SignalR  
